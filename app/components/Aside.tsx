@@ -75,14 +75,14 @@ const Aside = () => {
                 <h3 className='text-lg font-semibold text-neutral-800 dark:text-white'>Developer</h3>
                 <div className='flex items-center space-x-4'>
                     <img 
-                        src="https://jfctjplvujhqsposskbb.supabase.co/storage/v1/object/sign/images/profile_sm.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5XzBkYzc2YTkxLTVhMTctNGUzOS1hOGNjLTAzMDM2M2IxNDM5NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZmlsZV9zbS5qcGciLCJpYXQiOjE3NDY2ODYzODQsImV4cCI6MTc3ODIyMjM4NH0.5MpVAxqJv49Bw7JYR3AlXlMVZE5mFEfBp1xBocWjPwA" 
+                        src="https://ik.imagekit.io/qq6z28mp5/profile_sm.jpg" 
                         alt="Developer" 
                         width={60} 
                         height={60} 
                         className='rounded-full border-2 border-neutral-300 dark:border-neutral-700'
                     />
                     <div>
-                        <p className='font-medium text-neutral-800 dark:text-white'>Clever Designer</p>
+                        <p className='font-medium text-neutral-800 dark:text-white'>Clever Creative</p>
                         <div className='flex space-x-3 mt-1'>
                             <a href="https://github.com/clvrdesign" className='text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors'>
                                 <Github size={18} />
